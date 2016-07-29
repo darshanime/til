@@ -10,7 +10,7 @@ title: Tolday I learned
 email: deathbullet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I write code. Which is fun.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/til" # the subpath of your site, e.g. /blog
 url: "http://darshanime.github.io" # the base hostname & protocol for your site
 twitter_username: deathbullet
 github_username:  darshanime
