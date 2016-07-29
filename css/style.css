@@ -1,0 +1,30 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Ubuntu", "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+pre {
+    padding: 1em;
+    border-left: 2px solid #69c;
+}
+
+a {
+  color: #e81c4f;
+}
+
+header h1 {
+  color: white;
+  font-size: 2.5em;
+  font-weight: 300;
+}
+
